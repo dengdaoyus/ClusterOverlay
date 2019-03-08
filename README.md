@@ -12,7 +12,8 @@
 - 加入了动画效果，聚合切换过程更为平滑 
 
 ## 效果图如下 ##
-![Screenshot](https://raw.githubusercontent.com/dengdaoyus/ClusterOverlay/master/images/Screenshot_20190308135909_Android_ClusterMarker.jpg)  
+
+![Screenshot](https://github.com/dengdaoyus/ClusterOverlay/blob/master/images/Screenshot_20190308-135909_Android_ClusterMarker.jpg?raw=true) 
 
 ## 使用方法##
 ###1:配置搭建AndroidSDK工程###
