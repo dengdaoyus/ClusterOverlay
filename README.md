@@ -14,6 +14,7 @@
 ## 效果图如下 ##
 
 ![Screenshot](https://raw.githubusercontent.com/amap-demo/android-cluster-marker/master/resource/Screenshot.png)  
+![Screenshot](https://github.com/dengdaoyus/ClusterOverlay/blob/master/images/Screenshot_20190308-135909_Android_ClusterMarker.jpg?raw=true) 
 
 ## 扫一扫安装##
 ![Screenshot]( https://raw.githubusercontent.com/amap-demo/android-cluster-marker/master/resource/download.png)  
